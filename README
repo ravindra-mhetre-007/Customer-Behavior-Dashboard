@@ -1,0 +1,58 @@
+Customer Behavior Analysis Project
+
+This project demonstrates a practical end-to-end data analytics workflow using customer shopping behavior data. The objective is to analyze customer patterns and generate meaningful business insights using Python, SQL, and Power BI.
+
+Objective
+
+Analyze customer purchasing behavior
+
+Identify key customer segments and trends
+
+Support data-driven business decisions through insights and visualization
+
+Tools & Technologies
+
+Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+SQL (MySQL)
+
+Power BI
+
+Jupyter Notebook
+
+Project Workflow
+
+Data Preparation & EDA (Python)
+
+Data cleaning and transformation
+
+Exploratory data analysis
+
+Data Analysis (SQL)
+
+Load processed data into SQL database
+
+Execute business-focused queries
+
+Visualization (Power BI)
+
+Created an interactive dashboard
+
+Present key metrics and trends
+
+Project Files
+Customer-Behavior-Analysis/
+├── Customer_Shopping_Behavior_Analysis.ipynb
+├── customer_behavior_sql_queries.sql
+├── customer_behavior_dashboard.pbix
+├── data/
+│   └── customer_data.csv
+└── README.md
+
+Key Outcomes
+
+Customer segmentation insights
+
+Purchase behavior trends
+
+Business-ready dashboard for stakeholders
